@@ -1,0 +1,108 @@
+[
+    {
+      "question": "Khủng long nào là lớn nhất trong lịch sử?",
+      "options": ["Tyrannosaurus Rex", "Brachiosaurus", "Stegosaurus", "Velociraptor"],
+      "answer": "Brachiosaurus"
+    },
+    {
+      "question": "Khủng long nào được biết đến với cái tên 'kẻ ăn thịt khủng khiếp'?",
+      "options": ["Spinosaurus", "Tyrannosaurus Rex", "Allosaurus", "Diplodocus"],
+      "answer": "Tyrannosaurus Rex"
+    },
+    {
+      "question": "Khủng long nào sống trong thời kỳ Cretaceous?",
+      "options": ["Triceratops", "Ankylosaurus", "Brontosaurus", "Stegosaurus"],
+      "answer": "Triceratops"
+    },
+    {
+      "question": "Loài khủng long nào nổi tiếng với ba chiếc sừng trên đầu?",
+      "options": ["Triceratops", "Diplodocus", "Pteranodon", "Velociraptor"],
+      "answer": "Triceratops"
+    },
+    {
+      "question": "Khủng long nào được xem là nhanh nhất?",
+      "options": ["Tyrannosaurus Rex", "Velociraptor", "Spinosaurus", "Pterodactyl"],
+      "answer": "Velociraptor"
+    },
+    {
+      "question": "Khủng long nào là một trong những loài khủng long ăn cỏ lớn nhất?",
+      "options": ["Tyrannosaurus Rex", "Brachiosaurus", "Stegosaurus", "Ankylosaurus"],
+      "answer": "Brachiosaurus"
+    },
+    {
+      "question": "Khủng long nào có thể bay?",
+      "options": ["Tyrannosaurus Rex", "Pterodactyl", "Stegosaurus", "Brachiosaurus"],
+      "answer": "Pterodactyl"
+    },
+    {
+      "question": "Khủng long nào đã từng sống ở Nam Mỹ và được gọi là 'kẻ ăn thịt khổng lồ'?",
+      "options": ["Tyrannosaurus Rex", "Spinosaurus", "Giganotosaurus", "Allosaurus"],
+      "answer": "Giganotosaurus"
+    },
+    {
+      "question": "Khủng long nào có thể sống dưới nước?",
+      "options": ["Icthyosaurus", "Plesiosaurus", "Tyrannosaurus Rex", "Brachiosaurus"],
+      "answer": "Plesiosaurus"
+    },
+    {
+      "question": "Khủng long nào nổi tiếng với cái đuôi dài và thẳng?",
+      "options": ["Diplodocus", "Tyrannosaurus Rex", "Triceratops", "Velociraptor"],
+      "answer": "Diplodocus"
+    },
+    {
+        "question": "Khủng long nào nổi tiếng với cái mào lớn trên đầu?",
+      "options": ["Diplodocus", "Tyrannosaurus Rex", "Triceratops", "Velociraptor"],
+      "answer": "Diplodocus"
+    },
+    {
+      "question": "Khủng long nào nổi tiếng với cái mào lớn trên đầu?",
+      "options": ["Parasaurolophus", "Stegosaurus", "Brachiosaurus", "Allosaurus"],
+      "answer": "Parasaurolophus"
+  },
+  {
+      "question": "Khủng long nào có hai hàng gai lớn chạy dọc theo lưng?",
+      "options": ["Stegosaurus", "Velociraptor", "Diplodocus", "Pteranodon"],
+      "answer": "Stegosaurus"
+  },
+  {
+      "question": "Khủng long nào nổi tiếng với hai sừng lớn phía trên mắt?",
+      "options": ["Triceratops", "Tyrannosaurus Rex", "Ankylosaurus", "Spinosaurus"],
+      "answer": "Triceratops"
+  },
+  {
+      "question": "Khủng long nào có cổ dài giúp nó ăn lá trên cây cao?",
+      "options": ["Brachiosaurus", "Tyrannosaurus Rex", "Stegosaurus", "Pachycephalosaurus"],
+      "answer": "Brachiosaurus"
+  },
+  {
+      "question": "Khủng long nào nổi tiếng với bộ hàm mạnh mẽ và là kẻ săn mồi hàng đầu thời kỳ khủng long?",
+      "options": ["Tyrannosaurus Rex", "Diplodocus", "Triceratops", "Iguanodon"],
+      "answer": "Tyrannosaurus Rex"
+  },
+  {
+      "question": "Khủng long nào có màng cánh để bay và không thuộc loài khủng long điển hình?",
+      "options": ["Pteranodon", "Velociraptor", "Brachiosaurus", "Stegosaurus"],
+      "answer": "Pteranodon"
+  },
+  {
+      "question": "Khủng long nào có lớp vảy giáp dày để tự vệ?",
+      "options": ["Ankylosaurus", "Parasaurolophus", "Velociraptor", "Allosaurus"],
+      "answer": "Ankylosaurus"
+  },
+  {
+      "question": "Khủng long nào nhỏ gọn, chạy nhanh và có móng vuốt sắc bén?",
+      "options": ["Velociraptor", "Stegosaurus", "Brachiosaurus", "Triceratops"],
+      "answer": "Velociraptor"
+  },
+  {
+      "question": "Khủng long nào có chiếc đuôi lớn giống mái chèo để di chuyển dưới nước?",
+      "options": ["Spinosaurus", "Triceratops", "Diplodocus", "Tyrannosaurus Rex"],
+      "answer": "Spinosaurus"
+  },
+  {
+      "question": "Khủng long nào có đầu phẳng và dày dùng để tấn công kẻ thù?",
+      "options": ["Pachycephalosaurus", "Tyrannosaurus Rex", "Stegosaurus", "Parasaurolophus"],
+      "answer": "Pachycephalosaurus"
+  }
+  ]
+  
